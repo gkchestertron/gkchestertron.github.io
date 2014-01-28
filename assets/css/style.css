@@ -4,7 +4,6 @@
  * Licenced under GPL v3
  * http://www.gnu.org/licenses/gpl.html
  **/
-
 /* Page */
 body {
 	background: #333333 url('../images/page-background.png') repeat top left;
@@ -15,6 +14,10 @@ body {
 
 .container {
 	position: relative;
+}
+
+.hero-unit {
+	background-color: white;
 }
 
 .profile {
