@@ -12,9 +12,19 @@ body {
 	padding:1%;
 	margin:1%;
 }
+
+.container {
+	position: relative;
+}
+
+.profile {
+	width:300px;
+	border: 1px solid #ccc;
+}
+
 /* Header */
 header {
-	padding-top: 50px;
+	padding-top: 0px;
 	padding-bottom: 28px;
 }
 
@@ -96,7 +106,7 @@ h4 {
 /* Useful classes and styles */
 a.github-ribbon {
 	position: absolute;
-	top: 45px;
+	top: 22px;
 	left: 0;
 	border: 0;
 }
