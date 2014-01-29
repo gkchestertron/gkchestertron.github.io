@@ -12,6 +12,11 @@ body {
 	margin:1%;
 }
 
+.prettyprint {
+	height: 400px;
+	overflow-y: scroll;
+}
+
 .container {
 	position: relative;
 }
