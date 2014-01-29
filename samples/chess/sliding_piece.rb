@@ -1,5 +1,4 @@
 class SlidingPiece < Piece
-
   ORTHOGONALS = [[-1,0],[1,0],[0,1],[0,-1]]
   DIAGONALS = [[-1,-1],[-1,1],[1,1],[1,-1]]
 
@@ -30,8 +29,4 @@ class SlidingPiece < Piece
   def moves
     move_dirs
   end
-
-
-
-
 end

@@ -10,7 +10,7 @@ function getFile(filename) {
 }
 
 function updateCode (text) {
-	$('pre').text(text);
+	$('.prettyprint').text(text);
 }
 
 $('.chessLink').on('click', function (event) {

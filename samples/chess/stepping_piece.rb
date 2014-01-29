@@ -1,5 +1,4 @@
 class SteppingPiece < Piece
-
   def possible_moves(deltas)
     possible_moves = []
     deltas.each do |delta|
@@ -12,5 +11,4 @@ class SteppingPiece < Piece
     end
     possible_moves
   end
-
 end

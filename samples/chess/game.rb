@@ -1,7 +1,6 @@
 require_relative 'chess'
 
 class Game
-
   def initialize
     @board = Board.new
     @turn = :white
@@ -43,7 +42,6 @@ class Game
     print @board.to_s
     @turn = @turn == :white ? :black : :white
   end
-
 end
 
 g = Game.new

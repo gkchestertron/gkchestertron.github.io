@@ -1,5 +1,4 @@
 class Pawn < Piece
-
   def dup
     duped_piece = Pawn.new(color: self.color, position: self.position.dup)
   end
@@ -52,6 +51,4 @@ class Pawn < Piece
     square = @board[pos[0],pos[1]]
     square.nil?
   end
-
-
 end

@@ -1,5 +1,4 @@
 # encoding: utf-8
-
 class Piece
   SYMBOLS = {
     :white => {
@@ -28,8 +27,6 @@ class Piece
     @board = options[:board]
   end
 
-
-
   def moves
     raise NotImplementError.new("move has not been implemented for this piece")
     # raise NotImplementedError, "asdf"
@@ -55,7 +52,6 @@ class Piece
   def to_s
     SYMBOLS[@color][self.class.to_s]
   end
-
 end
 
 
