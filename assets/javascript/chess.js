@@ -11,6 +11,7 @@ function getFile(filename) {
 
 function updateCode (text) {
 	$('.prettyprint').text(text);
+	prettyPrint();
 }
 
 $('.chessLink').on('click', function (event) {
