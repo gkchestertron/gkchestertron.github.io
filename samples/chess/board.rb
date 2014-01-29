@@ -18,13 +18,15 @@ class Board
     @grid.each_with_index.map do |row, row_index|
       row.each_with_index.map do |col, col_index| 
         if col.nil?
-          if (row_index.even? && col_index.even?) || (row_index.odd? && col_index.odd?)
+          if (row_index.even? && col_index.even?) || 
+             (row_index.odd? && col_index.odd?)
             "   ".colorize( :red ).on_white 
           else
             "   "
           end
         else
-          if (row_index.even? && col_index.even?) || (row_index.odd? && col_index.odd?) 
+          if (row_index.even? && col_index.even?) || 
+             (row_index.odd? && col_index.odd?) 
             " #{col} ".colorize( :red ).on_white 
           else
             " #{col} ".colorize( :red )
