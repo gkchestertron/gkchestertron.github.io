@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://johnfellman.com/about/</loc>
+    <lastmod>2025-03-29T15:24:42-07:00</lastmod>
+  </url><url>
+    <loc>https://johnfellman.com/</loc>
+    <lastmod>2025-03-29T15:24:42-07:00</lastmod>
+  </url><url>
+    <loc>https://johnfellman.com/posts/</loc>
+    <lastmod>2025-03-29T15:14:20-07:00</lastmod>
+  </url><url>
+    <loc>https://johnfellman.com/posts/starting-over/</loc>
+    <lastmod>2025-03-29T15:14:20-07:00</lastmod>
+  </url><url>
+    <loc>https://johnfellman.com/categories/</loc>
+  </url><url>
+    <loc>https://johnfellman.com/tags/</loc>
+  </url>
+</urlset>
