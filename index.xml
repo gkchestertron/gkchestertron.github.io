@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Fellman Dot Com</title>
-    <link>https://johnfellman.com/</link>
+    <link>https://gkchestertron.github.io/</link>
     <description>Recent content on John Fellman Dot Com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>john.fellman@gmail.com (John Fellman)</managingEditor>
     <webMaster>john.fellman@gmail.com (John Fellman)</webMaster>
     <lastBuildDate>Sat, 29 Mar 2025 15:24:42 -0700</lastBuildDate>
-    <atom:link href="https://johnfellman.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gkchestertron.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://johnfellman.com/about/</link>
+      <link>https://gkchestertron.github.io/about/</link>
       <pubDate>Sat, 29 Mar 2025 15:24:42 -0700</pubDate><author>john.fellman@gmail.com (John Fellman)</author>
-      <guid>https://johnfellman.com/about/</guid>
+      <guid>https://gkchestertron.github.io/about/</guid>
       <description>&lt;p&gt;I am an engineer.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Starting Over</title>
-      <link>https://johnfellman.com/posts/starting-over/</link>
+      <link>https://gkchestertron.github.io/posts/starting-over/</link>
       <pubDate>Sat, 29 Mar 2025 15:14:20 -0700</pubDate><author>john.fellman@gmail.com (John Fellman)</author>
-      <guid>https://johnfellman.com/posts/starting-over/</guid>
+      <guid>https://gkchestertron.github.io/posts/starting-over/</guid>
       <description>&lt;p&gt;Just starting a blog.&lt;/p&gt;</description>
     </item>
   </channel>

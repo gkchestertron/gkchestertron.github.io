@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on John Fellman Dot Com</title>
-    <link>https://johnfellman.com/categories/</link>
+    <link>https://gkchestertron.github.io/categories/</link>
     <description>Recent content in Categories on John Fellman Dot Com</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>john.fellman@gmail.com (John Fellman)</managingEditor>
     <webMaster>john.fellman@gmail.com (John Fellman)</webMaster>
-    <atom:link href="https://johnfellman.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gkchestertron.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
